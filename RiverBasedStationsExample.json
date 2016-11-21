@@ -1,0 +1,166 @@
+{
+    "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+    "meta": {
+        "publisher": "Environment Agency",
+        "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+        "version": "0.7",
+        "comment": "Status: Beta service",
+        "hasFormat": [ "http://environment.data.gov.uk/flood-monitoring/id/stations.csv?riverName=Stort", "http://environment.data.gov.uk/flood-monitoring/id/stations.rdf?riverName=Stort", "http://environment.data.gov.uk/flood-monitoring/id/stations.ttl?riverName=Stort", "http://environment.data.gov.uk/flood-monitoring/id/stations.html?riverName=Stort" ]
+    },
+    "items": [
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/5151TH",
+            "RLOIid": "7351",
+            "catchmentName": "Stort",
+            "dateOpened": "2002-01-01",
+            "easting": 548906,
+            "gridReference": "TL4890614817",
+            "label": "Sawbridgeworth",
+            "lat": 51.812151,
+            "long": 0.158674,
+            "measures": [
+                {
+                    "@id": "http://environment.data.gov.uk/flood-monitoring/id/measures/5151TH-level-stage-i-15_min-mASD",
+                    "parameter": "level",
+                    "parameterName": "Water Level",
+                    "period": 900,
+                    "qualifier": "Stage",
+                    "unitName": "mASD"
+                }
+            ],
+            "northing": 214817,
+            "notation": "5151TH",
+            "riverName": "Stort",
+            "stageScale": "http://environment.data.gov.uk/flood-monitoring/id/stations/5151TH/stageScale",
+            "stationReference": "5151TH",
+            "status": "http://environment.data.gov.uk/flood-monitoring/def/core/statusActive",
+            "town": "Sawbridgeworth",
+            "wiskiID": "5151TH"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/5141TH",
+            "RLOIid": "7350",
+            "catchmentName": "Stort",
+            "dateOpened": "1989-01-01",
+            "easting": 548842,
+            "gridReference": "TL4884222164",
+            "label": "Bishops Stortford, Grange Paddocks",
+            "lat": 51.878177,
+            "long": 0.160906,
+            "measures": [
+                {
+                    "@id": "http://environment.data.gov.uk/flood-monitoring/id/measures/5141TH-level-stage-i-15_min-mASD",
+                    "parameter": "level",
+                    "parameterName": "Water Level",
+                    "period": 900,
+                    "qualifier": "Stage",
+                    "unitName": "mASD"
+                }
+            ],
+            "northing": 222164,
+            "notation": "5141TH",
+            "riverName": "Stort",
+            "stageScale": "http://environment.data.gov.uk/flood-monitoring/id/stations/5141TH/stageScale",
+            "stationReference": "5141TH",
+            "status": "http://environment.data.gov.uk/flood-monitoring/def/core/statusActive",
+            "town": "Bishop's Stortford",
+            "wiskiID": "5141TH"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/5171TH",
+            "RLOIid": "7353",
+            "catchmentName": "Stort",
+            "dateOpened": "1999-01-16",
+            "easting": 547272,
+            "gridReference": "TL4727212905",
+            "label": "Harlow Mill",
+            "lat": 51.795404,
+            "long": 0.134177,
+            "measures": [
+                {
+                    "@id": "http://environment.data.gov.uk/flood-monitoring/id/measures/5171TH-level-stage-i-15_min-mASD",
+                    "parameter": "level",
+                    "parameterName": "Water Level",
+                    "period": 900,
+                    "qualifier": "Stage",
+                    "unitName": "mASD"
+                }
+            ],
+            "northing": 212905,
+            "notation": "5171TH",
+            "riverName": "Stort",
+            "stageScale": "http://environment.data.gov.uk/flood-monitoring/id/stations/5171TH/stageScale",
+            "stationReference": "5171TH",
+            "status": "http://environment.data.gov.uk/flood-monitoring/def/core/statusActive",
+            "town": "Harlow",
+            "wiskiID": "5171_w1TH"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/5190TH",
+            "RLOIid": "7356",
+            "catchmentName": "Stort",
+            "dateOpened": "1984-01-01",
+            "easting": 539156,
+            "gridReference": "TL3915609271",
+            "label": "Roydon, Glen Faba",
+            "lat": 51.764828,
+            "long": 0.015113,
+            "measures": [
+                {
+                    "@id": "http://environment.data.gov.uk/flood-monitoring/id/measures/5190TH-flow--Mean-15_min-m3_s",
+                    "parameter": "flow",
+                    "parameterName": "Flow",
+                    "period": 900,
+                    "qualifier": "",
+                    "unitName": "m3/s"
+                },
+                {
+                    "@id": "http://environment.data.gov.uk/flood-monitoring/id/measures/5190TH-level-stage-i-15_min-mASD",
+                    "parameter": "level",
+                    "parameterName": "Water Level",
+                    "period": 900,
+                    "qualifier": "Stage",
+                    "unitName": "mASD"
+                }
+            ],
+            "northing": 209271,
+            "notation": "5190TH",
+            "riverName": "Stort",
+            "stageScale": "http://environment.data.gov.uk/flood-monitoring/id/stations/5190TH/stageScale",
+            "stationReference": "5190TH",
+            "status": "http://environment.data.gov.uk/flood-monitoring/def/core/statusActive",
+            "town": "Roydon",
+            "wiskiID": "5190TH"
+        },
+        {
+            "@id": "http://environment.data.gov.uk/flood-monitoring/id/stations/5112TH",
+            "RLOIid": "7348",
+            "catchmentName": "Stort",
+            "dateOpened": "2000-01-01",
+            "easting": 547530,
+            "gridReference": "TL4753031840",
+            "label": "Clavering",
+            "lat": 51.965459,
+            "long": 0.146003,
+            "measures": [
+                {
+                    "@id": "http://environment.data.gov.uk/flood-monitoring/id/measures/5112TH-level-stage-i-15_min-mASD",
+                    "parameter": "level",
+                    "parameterName": "Water Level",
+                    "period": 900,
+                    "qualifier": "Stage",
+                    "unitName": "mASD"
+                }
+            ],
+            "northing": 231840,
+            "notation": "5112TH",
+            "riverName": "Stort",
+            "stageScale": "http://environment.data.gov.uk/flood-monitoring/id/stations/5112TH/stageScale",
+            "stationReference": "5112TH",
+            "status": "http://environment.data.gov.uk/flood-monitoring/def/core/statusActive",
+            "town": "Clavering",
+            "wiskiID": "5112TH"
+        }
+    ]
+}
