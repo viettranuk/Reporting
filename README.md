@@ -25,4 +25,4 @@ Technical notes
 - Dependency injection with Autofac
 - nUnit/Moq for unit-tests
 
-Tags: #retailReport, #demo, #solid, #autofac, #dependencyInjection, #cSharp, #software, #consoleApp
+Tags: #solid, #autofac, #dependencyInjection, #cSharp, #software, #consoleApp
