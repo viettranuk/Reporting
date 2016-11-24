@@ -17,4 +17,10 @@ to perform the following tasks
 
 The application adhered to best practices where possible (i.e. SOLID principles, etc.)
 
+Technical notes
+- Visual Studio 2013
+- .NET 4.6.1
+- Dependency injection with Autofac
+- nUnit/Moq for unit-tests
+
 Tags: #retailReport, #demo, #solid, #autofac, #dependencyInjection, #cSharp, #software, #consoleApp
