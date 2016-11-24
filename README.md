@@ -6,7 +6,7 @@ http://environment.data.gov.uk/flood-monitoring/doc/reference
 
 to perform the following tasks
 
-- Retrieve a list of all stations on the river Stort (or any other valid names, configurable)
+- Retrieve a list of all stations on a particular river (name is configurable)
 - For each station, display the station name, and using data from the last 7 days (configurable) to date to display
 
 > Its minimum level and when it first occurred
@@ -14,6 +14,8 @@ to perform the following tasks
 > Its maximum level and when it last occurred
 
 > The average (mean) river level
+
+Parameter is also configurable with values: level / flow / temperature
 
 The application adhered to best practices where possible (i.e. SOLID principles, etc.)
 
