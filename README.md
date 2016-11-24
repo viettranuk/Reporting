@@ -17,7 +17,7 @@ to perform the following tasks
 
 Parameter is also configurable with values: level / flow / temperature
 
-The application adhered to best practices where possible (i.e. SOLID principles, etc.)
+The application adhered to best practices where possible (i.e. SOLID principles, etc.) but as usual, there is always room for improvement! All feedback are welcomed and very much appreciated!
 
 Technical notes
 - Visual Studio 2013
