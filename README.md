@@ -24,5 +24,6 @@ Technical notes
 - .NET 4.6.1
 - Dependency injection with Autofac
 - nUnit/Moq for unit-tests
+- In-memory caching is used to store queried data (MemoryCache/ObjectCache)
 
 Tags: #solid, #autofac, #dependencyInjection, #cSharp, #software, #consoleApp
